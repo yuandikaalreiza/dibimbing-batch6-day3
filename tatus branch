@@ -1,0 +1,26 @@
+*   [33mcommit bea8c5f39f0a4e558666f197f42cecdc3e33aead[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m[32m\[m  Merge: 7167f65 50ba7f8
+[31m|[m [32m|[m Author: yuandikaalreiza <74762562+yuandikaalreiza@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Sat Jun 22 20:54:49 2024 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge pull request #1 from yuandikaalreiza/test
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     Update test.py
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 50ba7f84557e2e51be7e2ef70af01cd37ded7181[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+[31m|[m[31m/[m  Author: yuandikaalreiza <74762562+yuandikaalreiza@users.noreply.github.com>
+[31m|[m   Date:   Sat Jun 22 20:48:56 2024 +0700
+[31m|[m   
+[31m|[m       Update test.py
+[31m|[m 
+* [33mcommit 7167f6543f74b35307e51212b22e1b3e327aa414[m
+[32m|[m Author: yuandikaalreiza <74762562+yuandikaalreiza@users.noreply.github.com>
+[32m|[m Date:   Sat Jun 22 20:36:01 2024 +0700
+[32m|[m 
+[32m|[m     initial project - hello world script
+[32m|[m 
+* [33mcommit fef9c129b1108c5fe7478777f15d06f6386c97c5[m
+  Author: yuandikaalreiza <74762562+yuandikaalreiza@users.noreply.github.com>
+  Date:   Sat Jun 22 09:50:13 2024 +0700
+  
+      Initial commit
